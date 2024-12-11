@@ -8,7 +8,7 @@ c. Au clic sur une personne ou un animal, d'afficher une page avec les informati
 d. Une barre de navigation permet de revenir à la page d’accueil.
 
 
-2.DOCUMENTATION NEXT EN ANGLAIS
+2. DOCUMENTATION NEXT EN ANGLAIS :
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Learn More
